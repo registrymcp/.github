@@ -1,4 +1,4 @@
-# MCP Server Registry (Model Context Protocol)
+# MCP Registry (Model Context Protocol)
 
 [![GitHub org badge](https://img.shields.io/badge/organization-registrymcp-blue)](https://github.com/registrymcp) [![Website](https://img.shields.io/badge/website-registrymcp.click-9cf)](https://registrymcp.click) [![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey)](LICENSE)
 
