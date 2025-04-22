@@ -6,7 +6,7 @@
 
 The Model Context Protocol (MCP) ecosystem is growing, but today its **servers** are spread across multiple uncoordinated catalogs. This fragmentation makes it difficult to discover, trust, install, and run MCP Servers.
 
-**MCP Server Registry** brings them together in a **single source of truth**, compatible with the [Model Context Protocol Specification](https://modelcontextprotocol.io/), providing:
+**MCP Registry** brings them together in a **single source of truth**, compatible with the [Model Context Protocol Specification](https://modelcontextprotocol.io/), providing:
 
 - **Discovery** [https://github.com/registrymcp/discovery](https://github.com/registrymcp/discovery)
 - **Web Application** [https://github.com/registrymcp/webapplication](https://github.com/registrymcp/webapplication)
