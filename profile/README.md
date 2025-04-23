@@ -10,7 +10,7 @@ Our mission at MCP Registry is to **unify** the entire **MCP Server ecosystem** 
   A central index (with automatic searching, validation and scoring) of MCP servers.  
 
 - **Explore**  
-  An intuitive user interface (using the index) to browse, filter and check servers.
+  An intuitive user interface (using the index) to browse, filter and check servers.  
   https://mcpregistry.click
 
 - **CLI**  
