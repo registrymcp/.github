@@ -8,6 +8,10 @@ The Model Context Protocol (MCP) landscape is thriving, but its servers live in 
 ## Our Mission
 MCP Registry unifies the entire MCP Server ecosystem under **one source of truth**, fully compliant with the Model [Context Protocol spec](https://modelcontextprotocol.io/introduction). We provide:
 
+- **Discovery**  
+  A central index of MCP Servers – no more hunting through disparate lists.  
+  https://mcpregistry.click
+
 - **Website**  
   An intuitive UI to browse, filter and vet servers.  
   https://mcpregistry.click
