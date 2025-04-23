@@ -7,10 +7,10 @@ The Model Context Protocol (MCP) landscape is thriving, but its servers remain s
 Our mission at MCP Registry is to **unify** the entire **MCP Server ecosystem** under a single source of truth, fully compliant with the [Model Context Protocol specification](https://modelcontextprotocol.io/introduction). We provide:
 
 - **Discovery**  
-  A central index (with automatic searching, validation and scoring) of MCP servers – no more searching through meaningless lists.  
+  A central index (with automatic searching, validation and scoring) of MCP servers.  
 
 - **Explore**  
-  An intuitive UI to browse, using the index to filter and vet servers.  
+  An intuitive user interface (using the index) to browse, filter and check servers.
   https://mcpregistry.click
 
 - **CLI**  
