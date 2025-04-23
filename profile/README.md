@@ -1,6 +1,6 @@
 # MCP Registry (Model Context Protocol)
 
-[![GitHub org badge](https://img.shields.io/badge/organization-registrymcp-blue)](https://github.com/registrymcp) [![Website](https://img.shields.io/badge/website-registrymcp.click-9cf)](https://registrymcp.click) [![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey)](LICENSE)
+[![GitHub org badge](https://img.shields.io/badge/organization-registrymcp-blue)](https://github.com/registrymcp) [![Website](https://img.shields.io/badge/website-mcpregistry.click-9cf)](https://mcpregistry.click) [![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey)](LICENSE)
 
 ## Our Ecosystem
 The Model Context Protocol (MCP) landscape is thriving, but its servers live in siloed catalogs and repos. That fragmentation makes it hard to **discover**, **trust**, and **integrate** MCP Servers into your projects.
