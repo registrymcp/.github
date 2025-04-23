@@ -2,11 +2,9 @@
 
 [![GitHub org badge](https://img.shields.io/badge/organization-registrymcp-blue)](https://github.com/registrymcp) [![Website](https://img.shields.io/badge/website-mcpregistry.click-9cf)](https://mcpregistry.click) [![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey)](LICENSE)
 
-## Our Ecosystem
-The Model Context Protocol (MCP) landscape is thriving, but its servers live in siloed catalogs and repos. That fragmentation makes it hard to **discover**, **trust**, and **integrate** MCP Servers into your projects.
+The Model Context Protocol (MCP) landscape is thriving, but its servers remain scattered across siloed catalogs and repositories — making **discovery**, **trust** and **integration** challenging. 
 
-## Our Mission
-MCP Registry unifies the entire MCP Server ecosystem under **one source of truth**, fully compliant with the Model [Context Protocol spec](https://modelcontextprotocol.io/introduction). We provide:
+Our mission at MCP Registry is to **unify** the entire **MCP Server ecosystem** under a single source of truth, fully compliant with the [Model Context Protocol specification](https://modelcontextprotocol.io/introduction). We provide:
 
 - **Discovery**  
   A central index (with automatic searching, validation and scoring) of MCP servers – no more searching through meaningless lists.  
