@@ -7,7 +7,7 @@ The Model Context Protocol (MCP) landscape is thriving, but its servers remain s
 Our mission at MCP Registry is to **unify** the entire **MCP Server ecosystem** under a single source of truth, fully compliant with the [Model Context Protocol specification](https://modelcontextprotocol.io/introduction). We provide:
 
 - **Index**  
-  Index is the single source of truth for Model Context Protocol (MCP) packages.
+  Index is the single source of truth for Model Context Protocol (MCP) packages.  
   https://index.mcpregistry.click
 
 - **Website**  
