@@ -20,8 +20,3 @@ Our mission at MCP Registry is to **unify** the entire **MCP Server ecosystem** 
 
 
 [![GitHub org badge](https://img.shields.io/badge/organization-registrymcp-blue)](https://github.com/registrymcp) [![Website](https://img.shields.io/badge/website-mcpregistry.click-9cf)](https://mcpregistry.click) [![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey)](LICENSE)
-
-<p align="right">
-  <img alt="Static Badge" src="https://img.shields.io/badge/organization-registrymcp-blue">
-</p>
-
