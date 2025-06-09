@@ -1,7 +1,7 @@
 # MCP Registry (Model Context Protocol)
 
 <p align="center">
-  <img src="assets/light.png" alt="MCP Registry" />
+  <img src="assets/logotipo.png" alt="MCP Registry" />
 </p>
 
 <p align="center">
