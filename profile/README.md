@@ -1,7 +1,7 @@
 # MCP Registry (Model Context Protocol)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/registrymcp/logos/refs/heads/main/logotipo.png" alt="MCP Registry" style="max-width:555px!important" />
+  <img src="https://raw.githubusercontent.com/registrymcp/logos/refs/heads/main/logotipo.png" alt="MCP Registry" style="max-width:555px" />
 </p>
 
 <p align="center">
